@@ -29,7 +29,7 @@ Now you can choose between one of the provided options. Have Fun and **be aware 
 - **Get single Character information by name:** you will be able to get informations from a single character based on his Name;
 - **Get random Character information:** you will be able to get informations from a single character choosen randomly.
 
-:bookmark_tabs: Character Informations
+## :bookmark_tabs: Character Informations
 
 - Character;
 - ID;
