@@ -22,6 +22,25 @@ A CLI project built to learn Ruby. It does consumes the Breaking Bad API.
 
 Now you can choose between one of the provided options. Have Fun and **be aware it does contain some spoilers** :grimacing: :see_no_evil:.
 
+## :heart_eyes: Features
+
+- **Get all Characters information:** you will receive a list with all the characters in the API database and their informations;
+- **Get single Character information by ID:** you will be able to get informations from a single character based on his ID;
+- **Get single Character information by name:** you will be able to get informations from a single character based on his Name;
+- **Get random Character information:** you will be able to get informations from a single character choosen randomly.
+
+:bookmark_tabs: Character Informations
+
+- Character;
+- ID;
+- Birthday;
+- Ocuppation;
+- Photo URL;
+- Status;
+- Nickname;
+- Seasons appearance;
+- Real name.
+
 ## 🤔 How to Contribute
 
 - Fork this repository;
