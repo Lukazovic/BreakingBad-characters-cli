@@ -20,7 +20,7 @@ A CLI project built to learn Ruby. It does consumes the Breaking Bad API.
 - Go to the project folder: `cd BreakingBad-characters-cli`;
 - Start the application: `ruby main.rb`.
 
-Now you can choose between on of the provided options. Have Fun and be aware it does contain some spoilers :grimacing: :see_no_evil: .
+Now you can choose between one of the provided options. Have Fun and **be aware it does contain some spoilers** :grimacing: :see_no_evil:.
 
 ## 🤔 How to Contribute
 
