@@ -18,6 +18,7 @@ A CLI project built to learn Ruby. It does consumes the Breaking Bad API.
 
 - Clone the project: `git clone https://github.com/Lukazovic/BreakingBad-characters-cli.git`;
 - Go to the project folder: `cd BreakingBad-characters-cli`;
+- Download the dependencies: `bundle install`;
 - Start the application: `ruby main.rb`.
 
 Now you can choose between one of the provided options. Have Fun and **be aware it does contain some spoilers** :grimacing: :see_no_evil:.
